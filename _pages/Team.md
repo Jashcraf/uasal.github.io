@@ -11,6 +11,7 @@ layout: single
 
 ## Graduate Students
 - Erin Maier, graduate student at the University of Arizona Steward Observatory.
+- !(Jaren Ashcraft)[Jashcraft.jpg]
 
 ## Undergraduate Students
 
