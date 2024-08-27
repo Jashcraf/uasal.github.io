@@ -20,7 +20,6 @@ See [Open positions to join our research](join.md) team.
 - [Justin Hom](https://www.linkedin.com/in/justin-hom-566317110), postdoc at the University of Arizona Steward Observatory, [![google scholar badge](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?view_op=list_works&hl=en&user=MNv4whMAAAAJ), [![ORCiD badge](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)0000-0002-0813-4308](https://orcid.org/0000-0001-9994-2142).
 
 ## Graduate Students
-- [Jaren Ashcraft](https://jashcraf.github.io/), graduate student at the University of Arizona Wyant College of Optical Sciences.
 - Kian Milani, graduate student at the Wyant College of Optical Sciences at University of Arizona.
 - [Emory Jenkins](https://www.linkedin.com/in/emory-jenkins/), graduate student at the University of Arizona Wyant College of Optical Sciences, [![google scholar badge](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=0Gs1L98AAAAJ&hl=en), [![ORCiD badge](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)0000-0001-6829-7910](https://orcid.org/0000-0001-6829-7910).
 - [Yu-Chia Lin](https://dreamjade.github.io/yuchia/), graduate student at the University of Arizona Physics  [![google scholar badge](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=uLe1uIsAAAAJ), [![ORCiD badge](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)0000-0002-1511-310X](https://orcid.org/0000-0002-1511-310X).
@@ -55,6 +54,8 @@ Some of UASAL's frequent collaborators include:
 
 
 ## Former Graduate Students
+
+- [Jaren Ashcraft](https://jashcraf.github.io/), NASA Hubble Fellow, UC Santa Barbara. Graduated with a Ph.D. in Optical Sciences in April 2024 ([Blog Post](https://uasal.github.io/students/team/jaren_defense/), courtesy of Dr. Justin Hom).
 - [Erin Maier](https://www.linkedin.com/in/erinmaier/), Observer Technician II, Lowell Observatory. Graduate student, University of Arizona Steward Observatory.
 - Bohan Li, graduate student in Computer Science at University of Arizona.
 - [Amit Kumar Jha](https://www.linkedin.com/in/amit-kumar-jha-79b8a6110/), graduate student at the University of Arizona College of Optical Sciences.
